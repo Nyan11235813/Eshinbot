@@ -1,0 +1,1 @@
+For my final examination project, I created Eshinbot, a school mascot, using Blender. This project enhanced my 3D modeling, texturing, and animation skills, while deepening my understanding of CGI workflows and character design.
